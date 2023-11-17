@@ -14,13 +14,19 @@ The App Router can coexist with the existing `pages` directory for incrementa
 1. Install dependencies:
 
 ```sh
-pnpm install
+npm install
 ```
 
 2. Start the dev server:
 
 ```sh
-pnpm dev
+npm run dev
+```
+
+## build lambda setup
+
+```sh
+npm run build:lambda
 ```
 
 ## Documentation
